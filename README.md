@@ -14,7 +14,7 @@ Este é um projeto desenvolvido com Next.js que explora as ideias de Immanuel Ve
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/ntncaue/DriveInsight.git
+   git clone https://github.com/ntncaue/cp5-FE.git
    ```
 
 2. Acesse o diretório do projeto:
